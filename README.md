@@ -35,7 +35,7 @@
 
 ## deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nathanerrop/p)
+[![Deploy](https://www.replitcdn.com/deploy/button.svg)](https://replit.com/deploy?template=https://github.com/Nathanerrop/p)
 
 
 
